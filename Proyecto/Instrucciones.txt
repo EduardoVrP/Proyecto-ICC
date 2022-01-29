@@ -1,0 +1,9 @@
+Todo esto sirve para jugar una variante del ajedrez llamada extinción, en esta variante pierdes si te eliminan un grupo completo de piezas. Para jugar:
+
+1. Compila todo (javac *.java)
+2. Si quieres jugar entre dos personas ejecuta "java Juego nombre1 nombre2"
+3. Si quieres jugar con la computadora ejecuta "java Juego nombre"
+4. Si solo ejecutas "java Juego te abre un menú con instrucciones y te permite, si asi lo deseas jugar una partida rapida"
+
+
+NOTAS: no alcancé a programar bien el jugar contra la computadora, basicamente lo que ocurre en ese caso es que el usuario puede jugar una partida libre controlando todo
